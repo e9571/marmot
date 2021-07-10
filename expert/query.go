@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/hunterhug/marmot/util/goquery"
+	"github.com/e9571/marmot/util/goquery"
 )
 
 func QueryBytes(content []byte) (*goquery.Document, error) {

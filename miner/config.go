@@ -13,7 +13,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/hunterhug/marmot/util"
+	"github.com/e9571/marmot/util"
 )
 
 // Worker is the main object to sent http request and return result of response

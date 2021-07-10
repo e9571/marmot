@@ -3,7 +3,7 @@ package goquery
 import (
 	"bytes"
 
-	"github.com/hunterhug/marmot/util/html"
+	"github.com/e9571/marmot/util/html"
 )
 
 // used to determine if a set (map[*html.Node]bool) should be used

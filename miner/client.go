@@ -14,8 +14,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/hunterhug/marmot/proxy"
-	"github.com/hunterhug/marmot/util"
+	"github.com/e9571/marmot/proxy"
+	"github.com/e9571/marmot/util"
 )
 
 // Cookie record Jar

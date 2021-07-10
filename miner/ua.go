@@ -7,7 +7,7 @@
 package miner
 
 import (
-	"github.com/hunterhug/marmot/util"
+	"github.com/e9571/marmot/util"
 	"math/rand"
 	"strings"
 )

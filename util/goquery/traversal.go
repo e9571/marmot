@@ -1,6 +1,6 @@
 package goquery
 
-import "github.com/hunterhug/marmot/util/html"
+import "github.com/e9571/marmot/util/html"
 
 type siblingType int
 

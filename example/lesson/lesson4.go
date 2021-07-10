@@ -9,11 +9,11 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/hunterhug/marmot/util"
+	"github.com/e9571/marmot/util"
 	"strings"
 
-	"github.com/hunterhug/marmot/expert"
-	"github.com/hunterhug/marmot/miner"
+	"github.com/e9571/marmot/expert"
+	"github.com/e9571/marmot/miner"
 )
 
 func main() {

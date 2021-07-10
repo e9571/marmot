@@ -1,6 +1,6 @@
 package goquery
 
-import "github.com/hunterhug/marmot/util/html"
+import "github.com/e9571/marmot/util/html"
 
 // Add adds the selector string's matching nodes to those in the current
 // selection and returns a new Selection object.

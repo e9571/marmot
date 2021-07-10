@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hunterhug/marmot/util/html"
+	"github.com/e9571/marmot/util/html"
 )
 
 // a parser for CSS selectors

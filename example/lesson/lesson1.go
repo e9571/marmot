@@ -9,7 +9,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/hunterhug/marmot/miner"
+	"github.com/e9571/marmot/miner"
 )
 
 /*

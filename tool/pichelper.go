@@ -3,9 +3,9 @@ package tool
 import (
 	"errors"
 	"fmt"
-	"github.com/hunterhug/marmot/expert"
-	"github.com/hunterhug/marmot/miner"
-	"github.com/hunterhug/marmot/util"
+	"github.com/e9571/marmot/expert"
+	"github.com/e9571/marmot/miner"
+	"github.com/e9571/marmot/util"
 	"net/url"
 	"strings"
 )

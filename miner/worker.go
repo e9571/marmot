@@ -14,7 +14,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/hunterhug/marmot/util"
+	"github.com/e9571/marmot/util"
 	"mime/multipart"
 )
 

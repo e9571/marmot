@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/hunterhug/marmot/util/cascadia"
+	"github.com/e9571/marmot/util/cascadia"
 
-	"github.com/hunterhug/marmot/util/html"
+	"github.com/e9571/marmot/util/html"
 )
 
 // Document represents an HTML document to be manipulated. Unlike jQuery, which

@@ -16,8 +16,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hunterhug/marmot/expert"
-	"github.com/hunterhug/marmot/miner"
+	"github.com/e9571/marmot/expert"
+	"github.com/e9571/marmot/miner"
 )
 
 func init() {

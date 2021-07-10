@@ -1,6 +1,6 @@
 package goquery
 
-import "github.com/hunterhug/marmot/util/html"
+import "github.com/e9571/marmot/util/html"
 
 // Is checks the current matched set of elements against a selector and
 // returns true if at least one of these elements matches.

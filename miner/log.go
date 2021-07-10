@@ -7,7 +7,7 @@
 package miner
 
 import (
-	"github.com/hunterhug/marmot/util/go-logging"
+	"github.com/e9571/marmot/util/go-logging"
 	"os"
 )
 

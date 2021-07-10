@@ -5,7 +5,7 @@
 package html
 
 import (
-	"github.com/hunterhug/marmot/util/html/atom"
+	"github.com/e9571/marmot/util/html/atom"
 )
 
 // A NodeType is the type of a Node.

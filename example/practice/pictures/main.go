@@ -8,8 +8,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/hunterhug/marmot/tool"
-	"github.com/hunterhug/marmot/util"
+	"github.com/e9571/marmot/tool"
+	"github.com/e9571/marmot/util"
 )
 
 // Num of miner, We can run it at the same time to crawl data fast

@@ -3,7 +3,7 @@ package wx
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/hunterhug/marmot/miner"
+	"github.com/e9571/marmot/miner"
 )
 
 type UserInfo struct {

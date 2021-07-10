@@ -1,7 +1,7 @@
 package goquery
 
 import (
-	"github.com/hunterhug/marmot/util/html"
+	"github.com/e9571/marmot/util/html"
 )
 
 // First reduces the set of matched elements to the first in the set.

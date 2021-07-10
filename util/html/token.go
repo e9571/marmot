@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hunterhug/marmot/util/html/atom"
+	"github.com/e9571/marmot/util/html/atom"
 )
 
 // A TokenType is the type of a Token.

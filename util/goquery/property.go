@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/hunterhug/marmot/util/html"
+	"github.com/e9571/marmot/util/html"
 )
 
 var rxClassTrim = regexp.MustCompile("[\t\r\n]")

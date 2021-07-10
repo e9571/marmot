@@ -10,7 +10,7 @@ import (
 	"io"
 	"strings"
 
-	a "github.com/hunterhug/marmot/util/html/atom"
+	a "github.com/e9571/marmot/util/html/atom"
 )
 
 // A parser implements the HTML5 parsing algorithm:
